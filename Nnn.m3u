@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV " tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="Local",TRANS TV 
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="Local",TRANS 7
+#EXTINF:-1 tvg-id="CNBCAsiaPacific.us" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="Local",CNBC Indonesia
+#EXTINF:-1 tvg-id="CNNIndonesia.MACAN" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="Local",CNN Indonesia
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Local",RCTI
+#EXTINF:-1 tvg-id="AlJazeera.MACAN" tvg-name="Al Jazeera" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="Internasional News",Al Jazeera
+#EXTINF:-1 tvg-id="BBCWorldNews.MACAN" tvg-name="BBC News" tvg-logo="https://i.ibb.co/VmrxVVv/bbc-news-home-tv.png" group-title="Internasional News",BBC News
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="Internasional News",Bloomberg
+#EXTINF:-1 tvg-id="NHKWorldPremium.id" tvg-name="NHK World" tvg-logo="https://i.ibb.co/NCgFhsD/nhk-world-jp-home-tv.png" group-title="Internasional News",NHK World
+#EXTINF:-1 tvg-id="ABCAustralia.id" tvg-name="ABC News" tvg-logo="https://i.ibb.co/rGQNKnx/abc-aust-home-tv.png" group-title="Internasional News",ABC News
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" tvg-name="CBS Network" tvg-logo="https://i.ibb.co/K29fnrx/cbs-home-tv.png" group-title="Internasional News",CBS Network
+#EXTINF:-1 tvg-id="DW.MACAN" tvg-name="DW English" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="Internasional News",DW English
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://i.ibb.co/xzjvBFZ/cnn-inter-home-tv.png" group-title="Internasional News",CNN International
+#EXTINF:-1 tvg-id="ChannelNewsAsia.MACAN" tvg-name="Channel News Asia" tvg-logo="https://i.ibb.co/pZsNBNx/Cna-home-tv.png" group-title="Internasional News",Channel News Asia
+#EXTINF:-1 tvg-id="NationalGeographicChannel.MACAN" tvg-name="National Geographic" tvg-logo="https://i.ibb.co/WcJSHvc/natgeo-home-tv.png" group-title="Knowledge",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographicWild.MACAN" tvg-name="Nat Geo Wild" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" group-title="Knowledge",Nat Geo Wild
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://i.ibb.co/9y46z6n/Discovery-channel-home-tv.png" group-title="Knowledge",Discovery Channel
+#EXTINF:-1 tvg-id="BBCEarth.MACAN" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Knowledge",BBC Earth
+#EXTINF:-1 tvg-id="HistoryChannel.id" tvg-name="History" tvg-logo="https://i.ibb.co/4jSSG3Y/history-home-tv.png" group-title="Knowledge",History
+#EXTINF:-1 tvg-id="1602" tvg-name="Smithsonian" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Knowledge",Smithsonian
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Knowledge",Love Nature
+#EXTINF:-1 tvg-id="FashionTV.id" tvg-name="Fashion TV" tvg-logo="https://i.ibb.co/5jYHP9F/fashiontv-home-tv.png" group-title="Lifestyle",Fashion TV
+#EXTINF:-1 tvg-id="AsianFoodChannel.MACAN" tvg-name="AFN" tvg-logo="https://i.ibb.co/vh4YJjH/afn-home-tv.png" group-title="Lifestyle",AFN
+#EXTINF:-1 tvg-id="HGTV.MACAN" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Lifestyle",HGTV
+#EXTINF:-1 tvg-id="TLC.MACAN" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqvjGMH/tlc-home-tv.png" group-title="Lifestyle",TLC
+#EXTINF:-1 tvg-id="Lifetime.MACAN" tvg-name="Lifetime" tvg-logo="https://i.ibb.co/NCJnNpC/lifetime-home-tv.png" group-title="Lifestyle",Lifetime
+#EXTINF:-1 tvg-id="BlueAntEntertainment.id" tvg-name="Blue Ant Entertainment" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="Entertainment",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="BlueAntExtreme.id" tvg-name="Blue Ant Extreme" tvg-logo="https://i.ibb.co/hKL9phL/blue-ant-ext-home-tv.png" group-title="Entertainment",Blue Ant Extreme
+#EXTINF:-1 tvg-id="SonyOneHD.MACAN" tvg-name="Sony One" tvg-logo="https://i.ibb.co/n7KzQjg/s-one-home-tv.png" group-title="Entertainment",Sony One
+#EXTINF:-1 tvg-id="GEMChannel.id" tvg-name="Sony GEM" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Entertainment",Sony GEM
+#EXTINF:-1 tvg-id="KPlus.id" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Entertainment",K+
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="TvN" tvg-logo="https://i.ibb.co/G9mjnYQ/tvn-home-tv.png" group-title="Entertainment",TvN
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://i.ibb.co/MsFDnMV/kbs-world-home-tv.png" group-title="Entertainment",KBS World
+#EXTINF:-1 tvg-id="Arirang.MACAN" tvg-name="Arirang" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Entertainment",Arirang
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/5rB27Sm/hits-home-tv.png" group-title="Entertainment",HITS
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/LJM3WtM/axn-home-tv.png" group-title="Entertainment",AXN
+#EXTINF:-1 tvg-id="CrimeInvestigation.MACAN" tvg-name="Crime Investigation" tvg-logo="https://i.ibb.co/jMjWhcc/crime-investigation-home-tv.png" group-title="Entertainment",Crime Investigation
+#EXTINF:-1 tvg-id="WAKUWAKUJAPAN.MACAN" tvg-name="Waku Waku Japan" tvg-logo="https://i.ibb.co/PYP0ryn/wakuwaku-home-tv.png" group-title="Lifestyle",Waku Waku Japan
+#EXTINF:-1 tvg-id="DuniaLain.MACAN" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/KbF85XK/dunialain-home-tv.png" group-title="Entertainment",Dunia Lain
+#EXTINF:-1 tvg-id="CitraDrama.id" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/7VRZmBX/citra-drama-home-tv.png" group-title="Entertainment",Citra Drama
+#EXTINF:-1 tvg-id="Discovery Asia" tvg-name="Discovery Asia" tvg-logo="https://i.ibb.co/x7LTG51/Discovery-asia-home-tv.png" group-title="Knowledge",Discovery Asia
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" tvg-logo="https://i.ibb.co/HGkQ2YB/mnctv-home-tv.png" group-title="Local",MNC TV
+#EXTINF:-1 tvg-id="INews.id" tvg-name="Inews" tvg-logo="https://i.ibb.co/KWttnf1/inews-home-tv.png" group-title="Local",Inews
+#EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://i.ibb.co/Qmh4NMJ/rtv-home-tv.png" group-title="Local",RTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.ibb.co/gZLhrBt/gtv-home-tv.png" group-title="Local",GTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hFC9nw1/sctv-home-tv.png" group-title="Local",SCTV
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/qC5NGhR/indosiar-home-tv.png" group-title="Local",Indosiar
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/478Nqtp/antv-home-tv.png" group-title="Local",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/tXZT0Lz/Ochannel.png" group-title="Local",O Channel
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="KompasTV" tvg-logo="https://i.ibb.co/R3Hyxc1/kompastv-home-tv.png" group-title="Local",KompasTV
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/FxD8rj8/beritasatu-home-tv.png" group-title="Local",Berita Satu
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/d5tmxwX/tvri-home-tv.png" group-title="Local",TVRI
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="METROTV" tvg-logo="https://i.ibb.co/M9c0sy2/metrotv-home-tv.png" group-title="Local",METROTV
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV" tvg-logo="https://i.ibb.co/mJjQDnj/nettv-home-tv.png" group-title="Local",NET TV
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI SD" tvg-logo="https://i.ibb.co/wLWjY5G/rcti-home-tv.png" group-title="Local",RCTI SD
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="Jowo Chanel" tvg-logo="" group-title="Variety",Jowo Chanel
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Ptrwg6d/tvone-home-tv.png" group-title="Local",TV ONE
+#EXTINF:-1 tvg-id="" tvg-name="Anime+" tvg-logo="https://i.ibb.co/r2S2r6Y/anime-plus-home-tv.png" group-title="Movies",Anime+
+#EXTINF:-1 tvg-id="" tvg-name="Bolly+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjyv4dYl8ukuJNs84gyWGPbxfE9TJsFuqntqy2a7nLBPHmiHXgzIlNn885D63E3r-47sgp83kazBb5i7DDKm5Mg4zHyC5D0_V20OCyggunJt4ebDLzJf2GmCniT-Eng1RaNrbhXJPfc2VFk13-jgze1CSQRFHDRCjB0SAkIFnWLjfrPRXKiOaK9qIZH5Q=s320" group-title="Movies",Bolly+
+#EXTINF:-1 tvg-id="" tvg-name="Drama+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh6gl2erE9qmrRuP2oKEWcI20dp1rcQ6vdkpjG7QCbg2Ya4MkpajlOd_kBGt8uzZM0TzXcQ_42oLC1to756td1EXzqcrpOq6HYM6rHRSLqWg8_KR8yfOb0g8lP8akCsfKEKSugFxiSACletR5ZXDDj2EMQFfyb8aM9ypYioVuMj2cW-IfjpynAuKcARdA=s320" group-title="Movies",Drama+
+#EXTINF:-1 tvg-id="" tvg-name="Family+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgqMn3R_nBPawWxngXQf9HwXWWg_oLf4T152i0bBzx0koZRKJqGl8E5vpkC9wpOJHW-9dkDw9GUcvT2CcO1jLEj4d9-ndblepsLcq4gbNJ2Cj43ZR1tDWvCeVHy8gBrx278QG1wOYnmbRMSyt9eVYn4hj5m2gxLguC8fefF-6XMFsGC3za2FoP0Kh9IfQ=s320" group-title="Movies",Family+
+#EXTINF:-1 tvg-id="" tvg-name="Movie+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg8Cs2GLpMbKG7-CQmEN3FR9X_jaJwglbGSeg2126XyR12rw4uNlzwAbGX58tBMeQKA5CkTeTNpRT2xMBEsmrNIrdWhr19F6kGSAIhAOFcLAwm_G4EpajE0GSk0mSlSfR8ozQ8pjiQ6kFNX7d1APlqHa-5hn7REz-U1-dHys-FYg0oWTtFalnpLc_df1Q=s320" group-title="Movies",Movie+
+#EXTINF:-1 tvg-id="" tvg-name="Series+" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgdp4TH52Hdf6ND5ej933_5PKrB7TOfgW_UoVXpO66dBridl8jzSX9hO7wPJq2siiHHDpm-COG43m1IzaainvzY_tyRTfnDVCq1fw3NXDqLsW4Yv2QD-nhLq0pm9ARjUzpH0ToCv6acz3yVKFChbxyntIG4iIRoje0bmZ3NWF7asGhle-a3qwCtqdK46Q=s320" group-title="Movies",Series+
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBO" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="CINEMAX.MACAN" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/0yJjMdB/hbo-max-home-tv.png" group-title="Movies",Cinemax
+#EXTINF:-1 tvg-id="Paramount" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/dgPMHc0/My-cinema-encep.png" group-title="Movies",My Cinema
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="https://i.ibb.co/G0chGsR/My-cinema-asia.png" group-title="Movies",My Cinema Asia
+#EXTINF:-1 tvg-id="Champions1.MACAN" tvg-name="My Cinema Family" tvg-logo="https://i.ibb.co/cYC2cmR/My-family-channel.png" group-title="Movies",My Cinema Family
+#EXTINF:-1 tvg-id="ts506" tvg-name="&Flix" tvg-logo="https://i.ibb.co/k5QGD8v/flix-home-tv.png" group-title="Movies",&Flix
+#EXTINF:-1 tvg-id="ts530" tvg-name="&Prive HD" tvg-logo="https://i.ibb.co/3ppHtjj/prive-home-tv.png" group-title="Movies",&Prive HD
+#EXTINF:-1 tvg-id="156" tvg-name="Stars Movies" tvg-logo="https://i.ibb.co/vXzThc8/star-movies-home-tv.png" group-title="Movies",Stars Movies
+#EXTINF:-1 tvg-id="ts387" tvg-name="Stars Movies Select" tvg-logo="https://i.ibb.co/GpPBSDp/Star-movies-select-home-tv.png" group-title="Movies",Stars Movies Select
+#EXTINF:-1 tvg-id="ts32" tvg-name="Sony Pix" tvg-logo="https://i.ibb.co/VBMzR6T/Sony-pix-home-tv.png" group-title="Movies",Sony Pix
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV" tvg-logo="https://i.ibb.co/qrwpdB3/warner-tv-home-tv.png" group-title="Movies",WarnerTV
+#EXTINF:-1 tvg-id="Paramount.MACAN" tvg-name="Paramount" tvg-logo="https://i.ibb.co/6byntpL/Paramount-home-tv.png" group-title="Movies",Paramount
+#EXTINF:-1 tvg-id="Galaxy.MACAN" tvg-name="Galaxy" tvg-logo="https://i.ibb.co/P4VzF0H/galaxy-home-tv.png" group-title="Movies",Galaxy
+#EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-name="Galaxy Premium" tvg-logo="https://i.ibb.co/7gw38Pq/galaxy-premium-home-tv.png" group-title="Movies",Galaxy Premium
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="Cinema World" tvg-logo="https://i.ibb.co/q9ZwqcN/cinemaworld-home-tv.png" group-title="Movies",Cinema World
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="Hits Movies" tvg-logo="https://i.ibb.co/T4CMHky/Hits-movies-home-tv.png" group-title="Movies",Hits Movies
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/Lx5mh6X/thrill-home-tv.png" group-title="Movies",Thrill
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/C7tHQXY/celestial-movies-home-tv.png" group-title="Movies",Celestial Movies
+#EXTINF:-1 tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://i.ibb.co/M7HjR3n/ccm-home-tv.png" group-title="Movies",CCM
+#EXTINF:-1 tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-name="Star Chinese Movie" tvg-logo="https://i.ibb.co/MDGtQL6/Star-chinese-movie-home-tv.png" group-title="Movies",Star Chinese Movie
+#EXTINF:-1 tvg-id="ZeeTV.MACAN" tvg-name="Zee Bioskop" tvg-logo="https://i.ibb.co/PCVMHHS/zee-bioskop-home-tv.png" group-title="Movies",Zee Bioskop
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="TvN Movies" tvg-logo="https://i.ibb.co/fHfhMfn/tvn-movies-home-tv.png" group-title="Movies",TvN Movies
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" tvg-logo="https://i.ibb.co/C0bR1P3/flik-home-tv.png" group-title="Movies",Flik
+#EXTINF:-1 tvg-id="IMC.MACAN" tvg-name="IMC" tvg-logo="https://i.ibb.co/Wzpq2h7/imc-home-tv.png" group-title="Movies",IMC
+#EXTINF:-1 tvg-id="BioskopIndonesia.MACAN" tvg-name="Bioskop Indonesia" tvg-logo="https://i.ibb.co/KW62PjG/bioskop-id-home-tv.png" group-title="Movies",Bioskop Indonesia
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/y0Jk7CQ/boomerang-home-tv.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/pZ0xjt7/cartoon-network-home-tv.png" group-title="Kids",Cartoon Network
+#EXTINF:-1 tvg-id="NickelodeonJr.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/DkrTfsd/nickeledeon-home-tv.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/ZJGKFy9/animax-home-tv.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="Aniplus" tvg-logo="https://i.ibb.co/6JGP61f/aniplus-home-tv.png" group-title="Kids",Aniplus
+#EXTINF:-1 tvg-id="BOO" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/b7HGG2y/Disney-xd-home-tv.png" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="Dreamworks.MACAN" tvg-name="Dreamworks" tvg-logo="https://i.ibb.co/z5cb1rW/Dreamworks-encep.png" group-title="Kids",Dreamworks
