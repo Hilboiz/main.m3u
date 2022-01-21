@@ -1,2 +1,56 @@
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQIYI" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iqiyi-cn.png " group-title="Entertainment",IQIYI
-http://103.30.87.238:443/2182
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+"https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
+
+#EXTM3U
+#EXTINF:-1 tvg-id="rcti.id" ch-number="1" tvg-name="RCTI" tvg-logo="http://cdn.roll.my.id/img/RCTI.png" group-title="INDONESIA",RCTI
+http://202.150.172.34:4000/play/rctit2
+
+#EXTINF:-1 tvg-id="mnctv.id" ch-number="2" tvg-name="MNCTV" tvg-logo="http://cdn.roll.my.id/img/mnctv.png" group-title="INDONESIA",MNCTV
+http://202.150.172.34:4000/play/mnctvt2
+
+#EXTINF:-1 tvg-id="gtv.id" ch-number="3" tvg-name="GTV" tvg-logo="http://cdn.roll.my.id/img/gtv.png" group-title="INDONESIA",GTV
+http://202.150.172.34:4000/play/gtvt2
+
+#EXTINF:-1 tvg-id="inews.id" ch-number="12" tvg-name="iNews" tvg-logo="http://cdn.roll.my.id/img/inews.png" group-title="INDONESIA",INEWS
+http://202.150.172.34:4000/play/inewst2
+
+#EXTINF:-1 tvg-id="sctv.id" ch-number="8" tvg-name="SCTV" tvg-logo="http://cdn.roll.my.id/img/sctv.png" group-title="INDONESIA",SCTV
+http://202.150.172.34:4000/play/sctvhdt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8hHMjn/20200225-085453.png" group-title="INDONESIA",INDOSIAR
+http://202.150.172.34:4000/play/indosiarhdt2
+
+#EXTINF:-1 type="stream" tvg-id="ochannel.id" tvg-name="O Channel T2" tvg-logo="http://i.postimg.cc/25XZMzKK/O-CHANNEL.png" group-title="INDONESIA",O Channel
+http://202.150.172.34:4000/play/ochannelhdt2
+
+#EXTINF:-1 tvg-id="antv.id" ch-number="15" tvg-name="ANTV" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="INDONESIA",ANTV 
+http://202.150.172.34:4000/play/antvdigitalt2
+
+#EXTINF:-1 tvg-id="tvone.id" ch-number="14" tvg-name="TVOne" tvg-logo="http://cdn.roll.my.id/img/tvone.png" group-title="INDONESIA",TVONE
+http://202.150.172.34:4000/play/tvonedigitalt2
+
+#EXTINF:-1 tvg-id="trans7.id" ch-number="7" tvg-name="Trans 7" tvg-logo="http://cdn.roll.my.id/img/trans7.png" group-title="INDONESIA",TRANS7
+http://202.150.172.34:4000/play/trans7hdt2
+
+#EXTINF:-1 tvg-id="transtv.id" ch-number="6" tvg-name="Trans TV" tvg-logo="http://cdn.roll.my.id/img/transtv.png" group-title="INDONESIA",TRANSTV
+http://202.150.172.34:4000/play/transtvhdt2
+
+#EXTINF:-1 tvg-id="nettv.id" ch-number="4" tvg-name="Net TV" tvg-logo="http://cdn.roll.my.id/img/net.png" group-title="INDONESIA",NET.
+http://202.150.172.34:4000/play/nett2
+
+#EXTINF:-1 tvg-id="rtv.id" ch-number="5" tvg-name="RTV" tvg-logo="http://cdn.roll.my.id/img/rtv.png" group-title="INDONESIA",RTV
+http://202.150.172.34:4000/play/rtv1
+
+#EXTINF:-1tvg-id="metrotv.id" ch-number="11" tvg-name="METRO TV" tvg-logo="http://cdn.roll.my.id/img/metrotv.png" group-title="INDONESIA",METRO TV
+http://202.150.172.34:4000/play/metrotvhdt2
+
+#EXTINF:-1 tvg-id="cnn.id" ch-number="15" tvg-name="CNN" tvg-logo="https://iptvid.cgflix.xyz/img/cnn.png" group-title="INDONESIA",CNN Indonesia
+http://202.150.172.34:4000/play/cnnindonesiahdt2
+
+#EXTINF:-1 tvg-id="cnbc.id" ch-number="15" tvg-name="CNBC" tvg-logo="https://iptvid.cgflix.xyz/img/cnbc.png" group-title="INDONESIA",CNBC Indonesia
+http://202.150.172.34:4000/play/cnbcindonesiahdt2
+
+#EXTINF:-1 tvg-id="tvri.id " ch-number="13" tvg-name="TVRI ID" tvg-logo="http://cdn.roll.my.id/img/tvri.png" group-title="INDONESIA",TVRI
+http://202.150.172.34:4000/play/tvrinasionalt2
+
